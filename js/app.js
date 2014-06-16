@@ -14,9 +14,7 @@
 			canPurchase: true,
 			soldOut: false,
 			images: [
-				{
-					full: 'images/1dodecahedronL.gif'					
-				}
+				'images/1dodecahedronL.gif',
 			],
 		},
 		{
