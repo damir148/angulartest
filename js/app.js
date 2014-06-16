@@ -25,4 +25,7 @@
 			soldOut: false,
 		},
 	];
+	
+	app.controller('PanelController', function(){
+	});
 })();
